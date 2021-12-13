@@ -1,0 +1,28 @@
+No,Kab_Kota,Indeks_Kedalaman_X1,Indeks_Keparahan_X2,Presentase_Kemiskinan_X3,Data_Penduduk_Miskin_Y
+1,Bogor,0.1,0.2,7,415
+2,Sukabumi,0.8,0.1,7,166
+3,Cianjur,1.3,0.2,10,222
+4,Bandung,0.8,0.2,7,246
+5,Garut,1.4,0.3,9,241
+6,Tasikmalaya,1.1,0.2,10,172
+7,Ciamis,1.1,0.2,7,86
+8,Kuningan,1.7,0.4,12,131
+9,Cirebon,2,0.5,11,232
+10,Majalengka,1.9,0.5,11,129
+11,Sumedang,1.7,0.4,10,112
+12,Indramayu,2.2,0.6,12,204
+13,Subang,1.7,0.5,9,137
+14,Purwakarta,0.8,0.1,8,76
+15,Karawang,1.2,0.3,8,188
+16,Bekasi,0.6,0.1,4,157
+17,Bandung Barat,1.4,0.3,10,169
+18,Pangandaran,1.2,0.3,8,32
+19,Kota Bogor,0.7,0.1,6,65
+20,Kota Sukabumi,1,0.2,7,23
+21,Kota Bandung,0.4,0.1,4,89
+22,Kota Cirebon,0.9,0.1,9,28
+23,Kota Bekasi,0.7,0.1,4,120
+24,Kota Depok,0.3,0.06,2,49
+25,Kota Cimahi,0.8,0.2,5,30
+26,Kota Tasikmalaya,1.5,0.3,13,84
+27,Kota Banjar,0.7,0.1,6,10
